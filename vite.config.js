@@ -3,6 +3,6 @@ import { defineConfig } from 'vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/dist/',
+  base: '/jav-bookmark-converter/dist/',
   plugins: [vue()],
 })
